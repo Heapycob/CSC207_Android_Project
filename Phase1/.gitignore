@@ -1,0 +1,11 @@
+gradle
+gradlew
+*.gradle
+*.bat
+*.properties
+*.iml
+build
+libs
+*.pro
+out
+
