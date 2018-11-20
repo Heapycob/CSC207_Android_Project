@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="tileHolder">#cabfb3</color>
+    <color name="orange">#e99631</color>
+    <color name="backgroundMain">#faf2e8</color>
+    <color name="tileHolderBackground">#b4a396</color>
+</resources>
